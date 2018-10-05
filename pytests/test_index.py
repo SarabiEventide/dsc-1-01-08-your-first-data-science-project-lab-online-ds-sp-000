@@ -4,7 +4,7 @@ import pytests
 import importlib
 
 # importing objects from the jupyter notebook here
-from ipynb.fs.full.index import # variable names go here
+from ipynb.fs.full.index():
 
 # format for writing tests
 # all functions that are to be run by test suite *must* be prepended with test_
